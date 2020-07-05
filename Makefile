@@ -1,5 +1,5 @@
 CFLAGS=-O2 -Wall -Wextra -pedantic -Wno-vla -std=c11
-SRCS=src/screen.c
+SRCS=src/tetris.c src/screen.c src/score.c
 HEADS=src/tetris.h
 OBJS=$(SRCS:.c=.o)
 LDFLAGS=-lncurses -lm
