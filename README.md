@@ -11,4 +11,5 @@ You can start a game with below command:
 
 ```
 $ make tetris
+$ ./tetris
 ```
