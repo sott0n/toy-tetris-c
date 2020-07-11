@@ -1,11 +1,11 @@
 # toy-tetris-c
 A toy program for the Tetris game written by C lang.
 
-# Requirement
+## Requirement
 
 - libncurses5-dev
 
-# How to use
+## Usage
 
 You can start a game with below command:  
 
